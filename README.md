@@ -1,2 +1,2 @@
 # git-demo-repo
-Repo for git demo
+Repo for git demo!
